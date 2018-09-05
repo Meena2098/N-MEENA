@@ -6,7 +6,7 @@ int i,N;
 cin>>N;
 for(i=0;i<N;i++)
 {
-cout<<"hello world\n";
+cout<<"hello\n";
 }
 return 0;
 }
