@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-int i,number;
-cin>>number;
-for(i=0;i<number;i++)
+int i,N;
+cin>>N;
+for(i=0;i<N;i++)
 {
 cout<<"hello world\n";
 }
